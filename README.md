@@ -14,9 +14,9 @@ Calculator Preview <img width="1470" height="836" alt="Screenshot 2026-01-22 at 
 
 ## 🛠️ Technologies Used
 
-- **HTML5:** For the structural layout of the calculator.
-- **CSS3:** For styling, layout, and responsive design.
-- **JavaScript (ES6):** For the functional logic and handling user inputs.
+- **HTML:** For the structural layout of the calculator.
+- **CSS:** For styling, layout, and responsive design.
+- **JavaScript:** For the functional logic and handling user inputs.
 
 ## 📂 File Structure
 
